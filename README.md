@@ -14,4 +14,4 @@ Desconsiderei a carreira como jogador dos treinadores que já atuaram como jogad
 
 ## Contribuindo
 Contribuições para este projeto são muito bem-vindas!<br/>
-Clone o projeto e faça as modificações que você queira. Abra uma nova branch com um nome descritivo do feat ou fix desenvolvido (ex.: feat/nome-da-feat ou fix/nome-do-fix), faça um commit com as tuas mudanças e então abra um Pull Request.
+Clone o projeto e contribua, seguindo as guidelines no arquivo [CONTRIBUTING.md](https://github.com/Eric-Mendes/treinadores-serie-a/blob/main/CONTRIBUTING.md "Ver este arquivo")
