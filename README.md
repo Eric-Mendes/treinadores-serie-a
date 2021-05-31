@@ -8,6 +8,10 @@ Uma aresta e = {v, u} existe apenas se o treinador v treinou o time u, e se o ti
 - E(G) = {{v, u} | v ∈ TREINADORES ^ u ∈ TIMES}.
 
 ## Dados
-Os dados foram obtidos através de web-scraping do site [transfermarkt](https://www.transfermarkt.com.br/). Você pode ver o CSV gerado na pasta [data](https://github.com/Eric-Mendes/treinadores-serie-a/tree/main/data "Ir para esta pasta").
+Os dados foram obtidos através de web-scraping do site [transfermarkt](https://www.transfermarkt.com.br/). Você pode ver o CSV gerado na pasta [data](https://github.com/Eric-Mendes/treinadores-serie-a/tree/main/data "Ir para a pasta data").
 ### Considerações
-Desconsiderei a carreira como jogador dos treinadores que já atuaram como jogadores. Também omiti seus trabalhos com times B ou sub-algumaCoisa.
+Desconsiderei a carreira como jogador dos treinadores que já atuaram como jogadores. Também omiti seus trabalhos com times B ou sub-<i>algumaCoisa</i>.
+
+## Contribuindo
+Contribuições para este projeto são muito bem-vindas!<br/>
+Clone o projeto e faça as modificações que você queira. Abra uma nova branch com um nome descritivo do feat ou fix desenvolvido (ex.: feat/nome-da-feat ou fix/nome-do-fix), faça um commit com as tuas mudanças e então abra um Pull Request.
